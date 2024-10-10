@@ -80,21 +80,23 @@
     bottom: 0;
 }
 
-.phone-img::after {
+.phone-img-2::after {
     content: "*";
     color: rgb(188, 54, 54);
     font-size: 3rem;
     position: absolute;
     right: 0;
     top: 0;
+    margin-right: -2rem;
 }
 
 @media (min-width: 992px) {
     #features .phone-img-2 {
         min-width: 17rem;
-        margin-left: 8rem;
+        margin-left: 5rem;
     }
 }
+
 
 .news-section {
     background: linear-gradient(90deg, rgba(7,182,177,1) 17%, rgba(6,88,125,1) 48%);
