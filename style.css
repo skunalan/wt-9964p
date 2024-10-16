@@ -131,5 +131,5 @@
 }
 
 .modal-header{
-    background: linear-gradient(90deg, rgba(182,39,7,1) 17%, rgba(6,67,125,1) 53%, rgba(17,6,0,1) 100%);
+    background: linear-gradient(90deg, rgba(182,39,7,1) 17%, rgba(6,67,125,1) 53%, rgba(0, 0, 0, 0.348) 100%);
 }
