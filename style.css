@@ -103,11 +103,12 @@
 }
 
 #cta-section {
-    position: relative;
     padding: 15rem 0;
     background-image: url("/assets/img/warriors.jpg");
-    background-position: center;
+    background-position:top;
+    background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
 
 .cta-content {
